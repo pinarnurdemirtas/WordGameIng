@@ -1,0 +1,127 @@
+[
+  {
+    "englishWord": "Apple",
+    "options": ["Elma", "Armut", "Kiraz", "Portakal"],
+    "correctAnswer": "Elma"
+  },
+  {
+    "englishWord": "House",
+    "options": ["Ev", "Araba", "Gemi", "Uçak"],
+    "correctAnswer": "Ev"
+  },
+  {
+    "englishWord": "Dog",
+    "options": ["Kedi", "Köpek", "At", "Fare"],
+    "correctAnswer": "Köpek"
+  },
+  {
+    "englishWord": "Car",
+    "options": ["Bisiklet", "Uçak", "Araba", "Gemi"],
+    "correctAnswer": "Araba"
+  },
+  {
+    "englishWord": "Book",
+    "options": ["Kitap", "Defter", "Kalem", "Masa"],
+    "correctAnswer": "Kitap"
+  },
+  {
+    "englishWord": "Water",
+    "options": ["Su", "Süt", "Çay", "Kahve"],
+    "correctAnswer": "Su"
+  },
+  {
+    "englishWord": "Sun",
+    "options": ["Ay", "Yıldız", "Güneş", "Bulut"],
+    "correctAnswer": "Güneş"
+  },
+  {
+    "englishWord": "Chair",
+    "options": ["Masa", "Sandalye", "Kapı", "Pencere"],
+    "correctAnswer": "Sandalye"
+  },
+  {
+    "englishWord": "Tree",
+    "options": ["Çiçek", "Ağaç", "Yaprak", "Kök"],
+    "correctAnswer": "Ağaç"
+  },
+  {
+    "englishWord": "School",
+    "options": ["Ev", "Okul", "Ofis", "Market"],
+    "correctAnswer": "Okul"
+  },
+  {
+    "englishWord": "Pen",
+    "options": ["Kalem", "Silgi", "Defter", "Kitap"],
+    "correctAnswer": "Kalem"
+  },
+  {
+    "englishWord": "Bird",
+    "options": ["Kedi", "Kuş", "Köpek", "At"],
+    "correctAnswer": "Kuş"
+  },
+  {
+    "englishWord": "Milk",
+    "options": ["Su", "Süt", "Çay", "Kahve"],
+    "correctAnswer": "Süt"
+  },
+  {
+    "englishWord": "Window",
+    "options": ["Kapı", "Pencere", "Sandalye", "Masa"],
+    "correctAnswer": "Pencere"
+  },
+  {
+    "englishWord": "Bread",
+    "options": ["Ekmek", "Peynir", "Yağ", "Su"],
+    "correctAnswer": "Ekmek"
+  },
+  {
+    "englishWord": "Night",
+    "options": ["Gündüz", "Sabah", "Gece", "Öğle"],
+    "correctAnswer": "Gece"
+  },
+  {
+    "englishWord": "Flower",
+    "options": ["Çiçek", "Ağaç", "Yaprak", "Dal"],
+    "correctAnswer": "Çiçek"
+  },
+  {
+    "englishWord": "Table",
+    "options": ["Masa", "Sandalye", "Kapı", "Pencere"],
+    "correctAnswer": "Masa"
+  },
+  {
+    "englishWord": "Rain",
+    "options": ["Kar", "Yağmur", "Güneş", "Rüzgar"],
+    "correctAnswer": "Yağmur"
+  },
+  {
+    "englishWord": "Fish",
+    "options": ["Kuş", "Balık", "Kedi", "Köpek"],
+    "correctAnswer": "Balık"
+  },
+  {
+    "englishWord": "Hat",
+    "options": ["Çanta", "Ayakkabı", "Şapka", "Eldiven"],
+    "correctAnswer": "Şapka"
+  },
+  {
+    "englishWord": "Road",
+    "options": ["Yol", "Ev", "Park", "Okul"],
+    "correctAnswer": "Yol"
+  },
+  {
+    "englishWord": "Fire",
+    "options": ["Su", "Ateş", "Toprak", "Hava"],
+    "correctAnswer": "Ateş"
+  },
+  {
+    "englishWord": "Snow",
+    "options": ["Yağmur", "Kar", "Rüzgar", "Güneş"],
+    "correctAnswer": "Kar"
+  },
+  {
+    "englishWord": "Star",
+    "options": ["Ay", "Yıldız", "Bulut", "Güneş"],
+    "correctAnswer": "Yıldız"
+  }
+]
